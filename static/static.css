@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    margin: 10px;
+    height: 150px;
+    align-items: center;
+}
